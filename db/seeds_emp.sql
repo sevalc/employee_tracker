@@ -7,3 +7,5 @@ VALUES  ("Jim", "Halpert", 1, NULL),
         ("Oscar", "Martinez", 6, 5),
         ("Michael", "Scott", 7, NULL),
         ("Andy", "Bernard", 8, 7);
+
+       
